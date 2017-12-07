@@ -1,7 +1,7 @@
 # es6
 es6 小结 笔记
 ## 数组
-
+```
 //json 数组格式
 // let json  = {
 //    // key:value,//普通的json格式
@@ -59,3 +59,4 @@ let list = arr.entries()//手动循环生成条目
 console.log(list.next().value)//[0, "super"]
 console.log(list.next().value)//[1, "jspang"]
 console.log(list.next().value)//[2, "supeng"]
+```
